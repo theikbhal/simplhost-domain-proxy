@@ -1,0 +1,28 @@
+{
+  "name": "simplhost-domain-proxy",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000i\u0000m\u0000p\u0000l\u0000h\u0000o\u0000s\u0000t\u0000-\u0000d\u0000o\u0000m\u0000a\u0000i\u0000n\u0000-\u0000p\u0000r\u0000o\u0000x\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theikbhal/simplhost-domain-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theikbhal/simplhost-domain-proxy/issues"
+  },
+  "homepage": "https://github.com/theikbhal/simplhost-domain-proxy#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.86.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "googleapis": "^166.0.0",
+    "pino": "^10.1.0",
+    "pino-pretty": "^13.1.2"
+  }
+}
